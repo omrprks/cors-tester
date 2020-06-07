@@ -7,5 +7,10 @@ Generate CSR
 $ cors-tester https://youtube.com
 ```
 
+## Installation
+```sh
+$ make install
+```
+
 ## License
 [MIT](./LICENSE)
